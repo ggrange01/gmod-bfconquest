@@ -1,0 +1,38 @@
+"BFCounquest"
+{
+	"base"		"base"
+	"title"		"BF Conquest"
+	"maps"		""
+	"menusystem"	"1"
+	"workshopid"	"1121509900"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"bfc_tickets"
+			"text"		"Tickets"
+			"help"		"Starting value of tickets"
+			"type"		"Numeric"
+			"default"	"250"
+		}
+		2
+		{
+			"name"		"bfc_scale_damage"
+			"text"		"Damage scale"
+			"help"		"Scales bullets damage"
+			"type"		"Numeric"
+			"default"	"1"
+		}
+		3
+		{
+			"name"		"bfc_friendlyfire"
+			"text"		"Friendly fire"
+			"help"		"Is friendlyfire allowed?"
+			"type"		"CheckBox"
+			"default"	"false"
+		}
+
+	}
+
+}
