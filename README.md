@@ -1,7 +1,10 @@
 download / extract
 GarrysModDS
-└── garrysmod
+
+    └── garrysmod
+
     └── gamemodes <- Place bfconquest here.
+    
         └── bfconquest 
 
 Workshop Link:
